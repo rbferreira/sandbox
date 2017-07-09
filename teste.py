@@ -18,4 +18,3 @@ def condicao():
 
 condicao()
 
-print('Fechou o programa lelek!!!')
