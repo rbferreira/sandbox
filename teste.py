@@ -18,3 +18,4 @@ def condicao():
 
 condicao()
 
+#PARANGARICOTIRIMIRRUARO
