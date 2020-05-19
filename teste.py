@@ -13,7 +13,7 @@ def condicao():
     if var1 > var2:
         print (var1, "e maior que", var2)
     else:
-        print('FODA-SE')
+        print (var2, "eh maior")
 
 
 condicao()
