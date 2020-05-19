@@ -2,9 +2,10 @@ print("Testando o python sozinho...")
 
 print("Testando o valor de duas variaveis")
 
-var1 = input('Insira a primeira variavel:')
-
-var2 = input('Insira a segunda variavel:')
+#var1 = input('Insira a primeira variavel:')
+var1 = 4
+var2 = 7
+#var2 = input('Insira a segunda variavel:')
 
 print('A variavel 1 é:', var1)
 print('A variavel 2 e:', var2)
